@@ -1,6 +1,6 @@
 # SM-2302 Software for Mathematicians
 
-14-week FOS major option (mathematics) running in August semester.
+A 14-week compuitational module for mathematics majors (FOS major option) running in August semester.
 
 ## Instructors
 
